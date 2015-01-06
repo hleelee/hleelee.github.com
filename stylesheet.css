@@ -1,0 +1,86 @@
+body {
+	font: 16px Helvetica, Sans-Serif;
+}
+
+.body2 {
+	background-color: #d8d8d8;
+	margin-top: 10px;
+	margin-bottom: 0%;
+}
+
+.line img {
+	width: 50%;
+	height: 50%;
+}
+
+.container img {
+	height: 25%;
+	width: 25%;
+}
+
+.container h1 {
+	text-align: center;
+	margin-top: 60px;
+	line-height: 10px;
+}
+
+.container h5 {
+	text-align: center;
+}
+
+.con1, .con2 {
+	padding: 0 0 0 8%;
+	width: 100%;
+}
+
+.con1 {
+	width: 80%;
+	position: relative;
+	display: inline-block;
+}
+
+.con2 {
+	width: 80%;
+	position: relative;
+	display: inline-block;
+}
+
+.contact {
+	float: left;
+}
+
+.social {
+	float: right;
+	margin-right: 120px;
+}
+
+.edu {
+	float: left;
+}
+
+.statement {
+	float: right;
+}
+
+.employment{
+	margin-top: 50px;
+	margin-left: 70px;
+	margin-right: 70px;
+}
+
+.education {
+	float: right;
+	margin-top: 120px;
+	}
+
+.education p {
+	line-height: 2px;
+}
+
+.end img{
+	float: right;
+}
+
+.end p {
+	line-height: 10px;
+}
